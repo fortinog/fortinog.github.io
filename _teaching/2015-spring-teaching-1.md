@@ -1,11 +1,11 @@
 ---
-title: "Rice Learning Assistant (RLA)"
+title: "Instructor"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Rice University, Computational and Applied Mathematics"
-date: 2014-01-01
+date: 2015-01-01
 location: "Houston, TX"
 ---
 
-Introduction to Engineering Computation Lab (CAAM 211)
+Foundations for Self-Discovery & Lifelong Learning (UNIV 110)
