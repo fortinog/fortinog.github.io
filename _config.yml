@@ -68,11 +68,11 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
+analytics:
   links: # An array of links to social media profiles
 
 
 # Analytics
-analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
@@ -83,7 +83,7 @@ author:
   name             : "Fortino Garcia"
   avatar           : "profile.png"
   bio              : "4th Year Graduate Student in Applied Mathematics at CU Boulder"
-  location         : "1111 Engineering D <br>&emsp;&nbsp;&nbsp; Boulder, CO 80309"
+  location         : "1111 Engineering Dr <br>&emsp;&nbsp;&nbsp; Boulder, CO 80309"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=4-LEq38AAAAJ"
   email            : "fortino.garcia@Colorado.edu"
