@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year graduate student in the Department of Applied Mathematics at the University of Colorado Boulder. I work with Dr. Daniel Appelö and am a member of the [High Order Group](https://sites.google.com/colorado.edu/appelo/).
+I am a 5th year graduate student in the Department of Applied Mathematics at the University of Colorado Boulder. I work with Dr. Daniel Appelö (now at MSU) and am a member of the [High Order Group](https://sites.google.com/msu.edu/danielappelo).
 
 ## Research Interests
 
