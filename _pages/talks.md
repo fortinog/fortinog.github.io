@@ -6,11 +6,10 @@ author_profile: true
 
 ## Upcoming talks
 
-* SIAM Annual 2020, Toronto, CN
-* Copper Mountain Conference on Iterative Methods, Copper Mountain, CO 
+* SIAM CSE 2021, Fort Worth, TX
 
 ## Recent talks
-
+* WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems (SIAM/CAIMS Annual Meeting, July 2020).
 * WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems (Seminar in Scientific Computing, Uppsala University, Uppsala, Sweden, December 2019).
 * WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems (Numerical Analysis Seminar, KTH, Stockholm, Sweden, November 2019)
 * WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems (WAVES, Vienna, Austria, August 2019).
