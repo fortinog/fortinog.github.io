@@ -10,7 +10,7 @@ author_profile: true
 
 ## Recent talk
 * JuQBox: A Quantum Optimal Control Toolbox In Julia
-	- SC20 International Workshop on Quantum Computing Software, November, 2020
+	- SC20 International Workshop on Quantum Computing Software, November 2020
 * WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems 
 	- SIAM/CAIMS Annual Meeting, July 2020
 	- Seminar in Scientific Computing, Uppsala University, Uppsala, Sweden, December 2019
