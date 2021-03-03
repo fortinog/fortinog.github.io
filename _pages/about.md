@@ -13,7 +13,7 @@ I am a 5th year graduate student in the Department of Applied Mathematics at the
 ## Research Interests
 
 ### JuQBox: A Julia Quantum Control Toolbox
-Work on a Julia package for quantum optimal control is now open-source! Find JuQBox [HERE](https://github.com/LLNL/Juqbox.jl)!
+Work on a Julia package for quantum optimal control is now open-source! Find JuQBox [here](https://github.com/LLNL/Juqbox.jl)!
 
 ### Numerical Solution of PDE
 I am interested in the numerical solution of PDE and PDE constrained optimization problems. In particular, I am interested in time-domain approaches to solutions of the Helmholtz equation and in the optimal control of control signals constrained by the Schrödinger equation for quantum computing systems.
