@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Fortino Garcia"
-description              : &description "Graduate Student at University of Colorado Boulder"
+description              : &description "NSF Postdoctoral Fellow at the Courant Institute of Mathematical Sciences"
 url                      : https://fortinog.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fortinog/fortinog.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Fortino Garcia"
   avatar           : "IMG_2317.jpeg"
-  bio              : "5th Year Graduate Student in Applied Mathematics at CU Boulder"
-  location         : "Engineering Center,<br>&emsp;&nbsp;&nbsp; ECOT 225 <br>&emsp;&nbsp;&nbsp;526 UCB <br>&emsp;&nbsp;&nbsp;Boulder, CO 80309-0526"
+  bio              : "NSF Postdoctoral Fellow at the Courant Institute of Mathematical Sciences"
+  location         : "Courant Institute of Mathematical Sciences,<br>&emsp;&nbsp;&nbsp; New York University <br>&emsp;&nbsp;&nbsp;251 Mercer Street <br>&emsp;&nbsp;&nbsp;New York, N.Y. 10012-1185"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=4-LEq38AAAAJ"
-  email            : "fortino.garcia@Colorado.edu"
+  email            : "fortino.garcia@cims.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

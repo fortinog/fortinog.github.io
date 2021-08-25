@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences working 
+with [Dr. Georg Stadler](https://math.nyu.edu/~stadler/).
 
-I am a 5th year graduate student in the Department of Applied Mathematics at the University of Colorado Boulder. I work with Dr. Daniel Appelö (now at MSU) and am a member of the [High Order Group](https://sites.google.com/msu.edu/danielappelo).
+I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at MSU) and was a member of the [High Order Group](https://sites.google.com/msu.edu/danielappelo).
 
 ## Research Interests
 
