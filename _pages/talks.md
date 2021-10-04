@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Upcoming talks
+* WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems
+	- Numerical Analysis and Scientific Computing Seminar, Courant Institute of Mathematical Sciences, October 2021
 
 ## Recent talks
 * JuQBox: A Quantum Optimal Control Toolbox In Julia
