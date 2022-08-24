@@ -20,7 +20,7 @@ For many applications in seismology, optics, and  acoustics it is important to f
 
 Rather than working with the Helmholtz equation directly, we instead propose going back to the time-domain to seek time-harmonic solutions of the wave equation in an iterative fashion. This method, which we have named the WaveHoltz iteration, instead seeks to find a fixed point of an operator that takes a time-average of a wave equation solution over a single period. What is remarkable about our method is that it *results in a positive definite system* whereas the Helmholtz problem may be indefinite, is *scalable and memory-lean* since it exploits wave equation solves as its main workhorse, and is *simple to apply to other models* such as damped wave equations or even [Maxwell's equations](https://ieeexplore.ieee.org/abstract/document/9743767). For instance, below we plot the log of the real part of the Helmholtz solution for a point source inside of a wedge with discontinuous wavespeeds and impedance (outflow) boundary conditions.
 
-<img src="../files/wedge_undamped_f20.png" width="400" class="center"/>
+<img src="../files/wedge_undamped_f20.png" width="500" class="center"/>
 
 WaveHoltz can be extended in a straightforward way to solve the *Navier* or *Navier-Cauchy* equation (not to be confused with the ubiquitous Navier-Stokes equation!) which is the elastic analogue of the Helmholtz equation. Below is a log plot of the magnitude of the solution of the Navier equation for an elastic inclusion (perhaps more recognizable as the cover image of a [certain book](https://www.cambridge.org/core/books/finite-volume-methods-for-hyperbolic-problems/97D5D1ACB1926DA1D4D52EAD6909E2B9)) obtained using the WaveHoltz iteration.
 
