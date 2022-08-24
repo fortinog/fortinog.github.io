@@ -7,6 +7,7 @@ author_profile: true
 ## Upcoming talks
 * Risk Neutral Quantum Optimal Control Using Quadratic Approximations
 	- SIAM CSE 23, Amsterdam, Netherlands, March 2023
+
 ## Recent talks
 * JuQBox: A Quantum Optimal Control Toolbox In Julia
 	- SC20 International Workshop on Quantum Computing Software, November 2020
@@ -21,5 +22,3 @@ author_profile: true
 	- Front Range Applied Mathematics Student Conference, Denver, CO, February 2019
 * Profiling Porous Media Flow Problems (Mellon Mays Undergraduate Fellowship Southeast Regional Undergraduate Conference, Durham, NC, November 2014).
 
-{% comment %} 
-{% endcomment %}
