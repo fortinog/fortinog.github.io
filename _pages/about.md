@@ -14,20 +14,4 @@ I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colo
 
 ## Teaching 
 In Fall 2022 I'm teaching Mathematics for Economics III (MATH-UA 133). Office hours for the course are Tuesday from 2:30PM-3:30PM and Thursday from 1:30PM-2:30PM in WWH 906.
-<!-- 
-## News, Conferences, and Travel
 
-### Upcoming
-  - I'll be giving a talk at **SIAM CSE 23**, as well as co-organizing a minisymposium entitled *"Advances in quantum algorithms for scientific computing"*
- -->
-<!-- ## Recent News
-My research is primarily focused on numerical methods for wave propagation.
-
-### Time-domain Approaches for Helmholtz problems
-
-### JuQBox: A Julia Quantum Control Toolbox
-Work on a Julia package for quantum optimal control is now open-source! Find JuQBox [here](https://github.com/LLNL/Juqbox.jl)!
-
-### Numerical Solution of PDE
-I am interested in the numerical solution of PDE and PDE constrained optimization problems. In particular, I am interested in time-domain approaches to solutions of the Helmholtz equation and in the optimal control of control signals constrained by the Schrödinger equation for quantum computing systems.
- -->
