@@ -11,6 +11,15 @@ I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Science
 
 I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at MSU) and was a member of the [High Order Group](https://sites.google.com/msu.edu/danielappelo).
 
+
+## Teaching 
+In Fall 2022 I'm teaching Mathematics for Economics III (MATH-UA 133). Office hours for the course are Tuesday from 2:30PM-3:30PM and Thursday from 1:30PM-2:30PM in WWH 906.
+<!-- 
+## News, Conferences, and Travel
+
+### Upcoming
+  - I'll be giving a talk at **SIAM CSE 23**, as well as co-organizing a minisymposium entitled *"Advances in quantum algorithms for scientific computing"*
+ -->
 <!-- ## Recent News
 My research is primarily focused on numerical methods for wave propagation.
 
