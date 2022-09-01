@@ -3,6 +3,10 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+toc: true
+toc_label: "Research"
+toc_icon: "gear"
+toc_sticky: true
 ---
 
 A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=4-LEq38AAAAJ&hl=en), or on my [CV](../files/Fortino_Garcia_CV.pdf). All preprints are also available on [arXiv](https://arxiv.org/a/garcia_f_1.html).
