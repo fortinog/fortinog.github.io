@@ -6,7 +6,7 @@ excerpt: 'We consider the application of the WaveHoltz iteration to time-harmoni
 Numerical experiments indicate an iteration scaling similar to that of the original WaveHoltz method, and that the convergence rate is dictated by the shortest (shear) wave speed of the problem.'
 date: 2022-05-20
 venue: 'Computer Methods in Applied Mechanics and Engineering'
-paperurl: 'https://authors.elsevier.com/a/1flaYAQEIzWYN'
+paperurl: 'http://fortinog.github.io/files/waveholtz.pdf'
 ---
 We consider the application of the WaveHoltz iteration to time-harmonic elastic wave equations with energy conserving boundary conditions. 
 Numerical experiments indicate an iteration scaling similar to that of the original WaveHoltz method, and that the convergence rate is dictated by the shortest (shear) wave speed of the problem.
