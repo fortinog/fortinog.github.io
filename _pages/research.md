@@ -9,7 +9,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=4-LEq38AAAAJ&hl=en), or on my [CV](../files/Fortino_Garcia_CV.pdf). All preprints are also available on [arXiv](https://arxiv.org/a/garcia_f_1.html).
+A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=FYzxuksAAAAJ&hl=en), or on my [CV](../files/Fortino_Garcia_CV.pdf). All preprints are also available on [arXiv](https://arxiv.org/a/garcia_f_1.html).
 
 My research interests are broadly in numerical methods for linear PDEs, scientific computing, and optimization. More specifically, my research focuses on numerical methods for problems related to wave propagation primarily in two main areas: 
 - [Time-domain approaches for Helmholtz problems](#time-domain-approaches-for-helmholtz-problems)
