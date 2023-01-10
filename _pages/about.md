@@ -13,7 +13,7 @@ I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colo
 
 
 ## Teaching 
-In Fall 2022 I'm teaching Mathematics for Economics III (MATH-UA 133). Office hours for the course are Tuesday from 2:30PM-3:30PM and Thursday from 1:30PM-2:30PM in WWH 906.
+In Spring 2023 I'm teaching Probability and Statistics (MATH-UA 235).
 
 ## Software
 Work on a Julia package for quantum optimal control is now open-source! Find JuQBox [here](https://github.com/LLNL/Juqbox.jl)!
