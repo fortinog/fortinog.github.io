@@ -6,7 +6,7 @@ author_profile: true
 
 ## Upcoming talks
 * WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems 
-	- Workshop on "Computational methods for multiple scattering", Isaac Newton Institute, April 2023
+	- Workshop on "[Computational methods for multiple scattering](https://www.newton.ac.uk/event/mwsw03/)", Isaac Newton Institute, April 2023
 
 ## Recent talks
 * Risk Neutral Quantum Optimal Control Using Quadratic Approximations
