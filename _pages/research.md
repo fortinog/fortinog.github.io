@@ -30,7 +30,7 @@ WaveHoltz can be extended in a straightforward way to solve the *Navier* or *Nav
 
 <img src="../files/inclusion_om100_r2_p6.png" width="700" />
 
-The above work has been done in collaboration with [Daniel Appelö](https://sites.google.com/msu.edu/danielappelo), [Olof Runborg](https://www.csc.kth.se/~olofr/), and Allen Alvarez Loya.
+The above work has been done in collaboration with [Daniel Appelö](https://sites.google.com/vt.edu/appel-high-order-group/), [Olof Runborg](https://www.csc.kth.se/~olofr/), and Allen Alvarez Loya.
 
 ### Selected relevant papers:
 
