@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences.
 
-I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at Virginia Tech) and was a member of the [High Order Group](https://sites.google.com/msu.edu/danielappelo).
+I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at Virginia Tech) and was a member of the [High Order Group](https://sites.google.com/vt.edu/appel-high-order-group).
 
 
 ## Teaching 
