@@ -13,7 +13,7 @@ I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colo
 
 
 ## Teaching 
-In Fall 2023 I'm teaching Numerical Analysis (MATH-UA 252).
+In Spring 2024 I'm teaching Theory of Probability (MATH-UA 233).
 
 ## Software
 Work on a Julia package for quantum optimal control is now open-source! Find JuQBox [here](https://github.com/LLNL/Juqbox.jl)!
