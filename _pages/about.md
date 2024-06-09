@@ -12,9 +12,6 @@ I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Science
 I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at Virginia Tech) and was a member of the [High Order Group](https://sites.google.com/vt.edu/appel-high-order-group).
 
 
-## Teaching 
-In Spring 2024 I'm teaching Honors Linear Algebra (MATH-UA 148).
-
 ## Software
 Work on a Julia package for quantum optimal control is now open-source! Find JuQBox [here](https://github.com/LLNL/Juqbox.jl)!
 

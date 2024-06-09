@@ -13,7 +13,7 @@ author_profile: true
 * JuQBox: A Quantum Optimal Control Toolbox In Julia
 	- SC20 International Workshop on Quantum Computing Software, November 2020
 * WaveHoltz: Wave Based Iterative Scheme for Helmholtz Problems 
-	- Workshop on "[Computational methods for multiple scattering](https://www.newton.ac.uk/event/mwsw03/)", Isaac Newton Institute, April 2023
+	- Workshop on "[Computational methods for multiple scattering](https://www.newton.ac.uk/event/mwsw03/)", Isaac Newton Institute, April 2023 ([Recording](https://youtu.be/GSWWUfutdj0?si=b1o0XEN7tEIfd-Xo))
 	- Numerical Analysis and Scientific Computing Seminar, Courant Institute of Mathematical Sciences, October 2021
 	- SIAM CSE 2021, Fort Worth, TX, March 2021
 	- SIAM/CAIMS Annual Meeting, July 2020
