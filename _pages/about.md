@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences.
+*I have left NYU and joined the R&D division of [Cadence Design Systems](https://www.cadence.com/en_US/home.html) as a Principal Software Engineer.*
 
-I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at Virginia Tech) and was a member of the [High Order Group](https://sites.google.com/vt.edu/appel-high-order-group).
+I was previously an NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences. I obtained a Ph.D. from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at CU Boulder. As a graduate student I worked with Dr. Daniel Appelö (now at Virginia Tech) and was a member of the [High Order Group](https://sites.google.com/vt.edu/appel-high-order-group).
 
 
 ## Software
